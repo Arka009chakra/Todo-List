@@ -1,0 +1,36 @@
+.f{
+    display: flex;
+    box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
+}
+.h{
+    text-align: center;
+    color: #33ffd8;
+    
+}
+#t1{
+   margin-left: 460px;
+   width:300px;
+   padding-bottom: 50px;
+   background:transparent;
+   color: azure;
+}
+body{
+    background: #3a4452;
+}
+#b1{
+    background:transparent;
+    color: #33ffd8;
+}
+.text ul{
+    position: relative;
+    background:transparent;
+    color:#33ffd8;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
